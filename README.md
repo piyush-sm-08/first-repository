@@ -8,4 +8,4 @@ I am persuing B-tech in Electronics from IIITDMJ .
 <br>
 I am very passionate about AI/ML field . 
 <br>
-I want to enhance my skills . 
+I want to enhance my ml skils .
